@@ -1,0 +1,3 @@
+[submodule "jsm4s"]
+	path = jsm4s
+	url = git@github.com:DmitryOlshansky/jsm4s.git
